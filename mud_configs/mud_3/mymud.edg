@@ -1,0 +1,8 @@
+A north B a path towards the sea
+B south A a path into the jungle
+A east C a path towards a cave
+C west A a path into the jungle
+C north D a path towards a river
+D south C a path towards a cave
+B east D a path towards a river
+D west B a path towards the sea

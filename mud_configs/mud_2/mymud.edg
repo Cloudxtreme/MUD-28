@@ -1,0 +1,8 @@
+A north B a path towards a hut
+B south A a path from an abandoned hut into to the woods
+A east C a path into a clearing
+C west A a path through the woods
+C north D a path to a cave
+D south C a path into a clearing
+B east D a path to a cave
+D west B a path to an abandoned hut
